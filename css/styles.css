@@ -1,0 +1,17 @@
+* {
+    border: 
+}
+
+.header {
+    text-align: center;
+}
+
+.containerphoto{
+    width: auto;
+    height: 256px;
+}
+.contain1 {
+
+    display: inline-block;
+    text-align: center;
+}
