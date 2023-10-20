@@ -10,3 +10,20 @@
     display: inline-block;
     text-align: center;
 }
+
+.imginside {
+    display: inline-block;
+    width: 700px;
+    height: auto;
+}
+.wrapped {
+    display:inline-block;
+    width: 500px;
+    height: auto;
+    float: inline-end;
+    padding-right: 50px;
+}
+.ingredients, .steps {
+    display: inline-block;
+    width: 700px;
+}
