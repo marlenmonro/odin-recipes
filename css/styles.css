@@ -17,7 +17,6 @@
     height: auto;
 }
 .wrapped {
-    display:inline-block;
     width: 500px;
     height: auto;
     float: inline-end;
@@ -26,4 +25,10 @@
 .ingredients, .steps {
     display: inline-block;
     width: 700px;
+}
+
+ul.littleparagraph li {
+    display: inline-block;
+    font: 15px;
+    padding: 10px;
 }
